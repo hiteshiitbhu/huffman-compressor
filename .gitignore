@@ -1,0 +1,12 @@
+# Compiled binaries
+huffman
+
+# Object files
+src/*.o
+*.o
+
+# Temporary test directories
+tmp.*
+*.bin
+decompressed.txt
+compressed.bin
